@@ -76,7 +76,8 @@ The `dashboard` sheet presents a consolidated **"Bike Annual Sales Report"**, co
 
 ### Dashboard View
 <!-- Paste your dashboard screenshot here -->
-![Dashboard Screenshot](<img width="850" height="512" alt="Screenshot 2026-09-05 104621" src="https://github.com/user-attachments/assets/872a9456-108e-4744-a20c-133145c5137c" />)
+![Dashboard Screenshot](<img width="850" height="512" alt="Screenshot 2026-09-05 104621" src="https://github.com/user-attachments/assets/594adb13-9942-4146-9a2f-e2c8d8de30b4" />
+)
 
 
 
